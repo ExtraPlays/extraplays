@@ -15,19 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
-  Olá, meu nome é Vitor Barbosa e sou <strong>Desenvolvedor</strong>.<br>
+  💬 Olá, meu nome é Vitor Barbosa e sou <strong>Desenvolvedor</strong>.<br>
   Atualmente estou focado em FiveM.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, Lua, Java.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Photoshop.</strong>
+  🦄 Linguagens: <strong>Html, CSS3, JavaScript, Lua, Java, PHP, Python.</strong>
 </p>
 
 <p align="left">
