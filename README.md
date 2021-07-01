@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   💬 Olá, meu nome é Vitor Barbosa e sou um <strong>Desenvolvedor</strong> Front e Back End.<br>
-  Atualmente estou focado em FiveM.
+  Atualmente estou focado em FiveM (lua).
 </p>
 
 <p align="left">
