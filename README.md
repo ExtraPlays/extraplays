@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  💬 Olá, meu nome é Vitor Barbosa e sou <strong>Desenvolvedor</strong>.<br>
+  💬 Olá, meu nome é Vitor Barbosa e sou um <strong>Desenvolvedor</strong> Front e Back End.<br>
   Atualmente estou focado em FiveM.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html, CSS3, JavaScript, Lua, Java, PHP, Python.</strong>
+  👨‍💻 Linguagens: <strong>Html, CSS3, JavaScript, Lua, Java, PHP, Python.</strong>
 </p>
 
 <p align="left">
