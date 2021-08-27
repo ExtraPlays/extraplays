@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  💬 Olá, meu nome é Vitor Barbosa e sou um <strong>Desenvolvedor</strong> Front e Back End.<br>
+  💬 Olá, meu nome é Vitor Barbosa, estou cursando Analise e Desenvolvimento de Sistemas e sou um <strong>Desenvolvedor</strong> Front e Back End.<br>
   Atualmente estou focado em FiveM (<strong>lua</strong>).
 </p>
 
