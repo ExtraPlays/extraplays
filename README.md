@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraPlays&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=dark">
 </p>
+
+![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> 
   💬 Olá, meu nome é Vitor Barbosa, estou cursando Analise e Desenvolvimento de Sistemas e sou um <strong>Desenvolvedor</strong> Front e Back End.<br>
