@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=dark">
+</p>
+
 <p align="left"> 
   💬 Olá, meu nome é Vitor Barbosa, estou cursando Analise e Desenvolvimento de Sistemas e sou um <strong>Desenvolvedor</strong> Front e Back End.<br>
   Atualmente estou focado em FiveM (<strong>lua</strong>).
