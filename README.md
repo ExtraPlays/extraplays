@@ -22,5 +22,5 @@
 
 ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
 
-## i'm currently working
+### I'm currently working
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtraPlays&repo=Yukina)](https://github.com/ExtraPlays/Yukina)
