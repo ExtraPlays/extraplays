@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ExtraPlays">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraPlays&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -22,8 +22,10 @@
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+  <img src="https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ### I'm currently working in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtraPlays&repo=Yukina)](https://github.com/ExtraPlays/Yukina)
