@@ -8,6 +8,8 @@
 
 ## 📡 Languages and Tools:
 
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
