@@ -4,10 +4,11 @@
 
 <br><br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=radical)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraPlays&theme=dark">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraPlays&theme=dark">    
 </p>
 
 ## 📡 Languages and Tools:
