@@ -22,4 +22,4 @@
 
 ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtraPlays&repo=ExtraRankup)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtraPlays&repo=Yukina)](https://github.com/ExtraPlays/Yukina)
