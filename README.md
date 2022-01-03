@@ -21,3 +21,5 @@
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtraPlays&repo=ExtraRankup)](https://github.com/anuraghazra/github-readme-stats)
