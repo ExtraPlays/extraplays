@@ -1,5 +1,7 @@
 # Hey! 👋
-i'm Vitor, a 21 years old.
+<p class="text-center">
+  i'm Vitor, a 21 years old.
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraPlays&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,5 +20,3 @@ i'm Vitor, a 21 years old.
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
