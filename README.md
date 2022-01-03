@@ -6,11 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExtraPlays&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraPlays&theme=dark">    
-</p>
-
 ## 📡 Languages and Tools:
 
 ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
