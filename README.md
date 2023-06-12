@@ -16,7 +16,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
+![VueJS](https://shields.io/badge/-VueJS-333333?style=flat&logo=vue.js)
 <div align="center">
   <img src="https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg"/>
 </div>
