@@ -6,7 +6,6 @@
 </div>
 
 ## 📡 Languages and Tools:
-<div align="center">
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -19,7 +18,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![VueJS](https://shields.io/badge/-VueJS-333333?style=flat&logo=vue.js)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-</div>
 <div align="center">
   <img src="https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg"/>
 </div>
