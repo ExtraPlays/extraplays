@@ -21,5 +21,5 @@
 </div>
 
 ### I'm currently working in
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtraPlays&repo=Yukina)](https://github.com/ExtraPlays/Yukina)
+Nothing!
 
