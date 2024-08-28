@@ -38,7 +38,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5jbkwdz5w9a0nk2m6r7hep8ob&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-### I'm currently working in
-![Valhalla](https://github.com/ExtraPlays/valhalla)
-
